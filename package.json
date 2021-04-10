@@ -1,0 +1,27 @@
+{
+    "name": "vscode-better-git-support-extension-pack",
+    "displayName": "Better Git Extension Pack",
+    "description": "Git extensions to be more productive.",
+    "version": "0.0.1",
+    "publisher": "gquittet",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-git-support-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-git-support-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "kahole.magit",
+        "mhutchie.git-graph"
+    ]
+}
