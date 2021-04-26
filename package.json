@@ -22,6 +22,8 @@
         "donjayamanne.githistory",
         "eamodio.gitlens",
         "kahole.magit",
-        "mhutchie.git-graph"
+        "mhutchie.git-graph",
+        "vscode.git",
+        "vscode.git-ui"
     ]
 }
