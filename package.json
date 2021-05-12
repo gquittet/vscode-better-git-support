@@ -2,7 +2,7 @@
     "name": "vscode-better-git-support-extension-pack",
     "displayName": "Better Git Extension Pack",
     "description": "Git extensions to be more productive.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "gquittet",
     "repository": {
         "type": "git",
