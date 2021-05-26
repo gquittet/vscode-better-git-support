@@ -10,7 +10,6 @@ If you are working with GitHub or GitLab check out my two others extension pack.
 
 ## List of extensions built-in
 
-- donjayamanne.githistory
 - eamodio.gitlens
 - kahole.magit
 - mhutchie.git-graph

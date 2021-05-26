@@ -19,7 +19,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "donjayamanne.githistory",
         "eamodio.gitlens",
         "kahole.magit",
         "mhutchie.git-graph"
